@@ -4,14 +4,37 @@
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/19-08-26-myroadburn/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/recenzii/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/roadburn/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
   </url>
   
 </urlset>
