@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H2O on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/h2o/</link>
+    <description>Recent content in H2O on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    <lastBuildDate>Wed, 05 May 2010 08:10:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://calmbomb.eu/tags/h2o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>H2O thicker than water</title>
+      <link>http://calmbomb.eu/2010-05-05-h2o-thicker-than-water/</link>
+      <pubDate>Wed, 05 May 2010 08:10:12 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2010-05-05-h2o-thicker-than-water/</guid>
+      <description>Dupa o pauza consistenta de concerte, am avut ocazia sa revin cu un concert hardcore in Fabrica. Aflasem de concert cu ceva vreme in urma, dar uitasem complet pana sa ma sune Tase si sa ma intrebe daca merg.</description>
+    </item>
+    
+  </channel>
+</rss>

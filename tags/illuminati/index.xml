@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illuminati on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/illuminati/</link>
+    <description>Recent content in Illuminati on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    <lastBuildDate>Mon, 16 May 2016 12:23:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://calmbomb.eu/tags/illuminati/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Death To All si atat!</title>
+      <link>http://calmbomb.eu/2016-05-16-death-to-all-si-atat/</link>
+      <pubDate>Mon, 16 May 2016 12:23:23 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2016-05-16-death-to-all-si-atat/</guid>
+      <description>E prima oara cand ajung sa public o recenzie de concert dupa atat de mult timp (o luna) si asta s-a intamplat pentru ca n-am avut inspiratie imediat dupa concert.</description>
+    </item>
+    
+    <item>
+      <title>Illuminati - The Core</title>
+      <link>http://calmbomb.eu/2013-05-15-illuminati-the-core/</link>
+      <pubDate>Wed, 15 May 2013 18:44:49 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2013-05-15-illuminati-the-core/</guid>
+      <description>Ma gandeam de mai multa vreme sa fac niste recenzii de albume, dar imi cunosc limitele si stiu ca n-as putea descrie un album oricat m-as chinui.</description>
+    </item>
+    
+  </channel>
+</rss>

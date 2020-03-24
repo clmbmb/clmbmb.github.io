@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RoadKillSoda on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/roadkillsoda/</link>
+    <description>Recent content in RoadKillSoda on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    <lastBuildDate>Mon, 02 Apr 2018 08:40:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://calmbomb.eu/tags/roadkillsoda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mamuţii au fost aici</title>
+      <link>http://calmbomb.eu/2018-04-02-mamu%C5%A3ii-au-fost-aici/</link>
+      <pubDate>Mon, 02 Apr 2018 08:40:08 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2018-04-02-mamu%C5%A3ii-au-fost-aici/</guid>
+      <description>Cum te relaxezi cel mai bine sâmbătă seara ca metalist în Bucureşti? Dacă ştii cu două-trei luni înainte, te duci la un concert în Fabrica, împreună cu prietenii!</description>
+    </item>
+    
+    <item>
+      <title>Rockstadt Extreme Fest 2015</title>
+      <link>http://calmbomb.eu/2015-08-18-rockstadt-extreme-fest-2015/</link>
+      <pubDate>Tue, 18 Aug 2015 06:01:52 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2015-08-18-rockstadt-extreme-fest-2015/</guid>
+      <description>O poveste de vara tarzie Anul asta am fost foarte ocupat cu treburi familiale/matrimoniale, asa ca nu a intrat in plan sa plec la vreun festival in alta parte.</description>
+    </item>
+    
+  </channel>
+</rss>

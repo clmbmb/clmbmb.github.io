@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>At The Gates on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/at-the-gates/</link>
+    <description>Recent content in At The Gates on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 21:32:42 +0300</lastBuildDate>
+    
+	<atom:link href="http://calmbomb.eu/tags/at-the-gates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My (first) Roadburn</title>
+      <link>http://calmbomb.eu/2019-08-26-my-first-roadburn/</link>
+      <pubDate>Mon, 26 Aug 2019 21:32:42 +0300</pubDate>
+      
+      <guid>http://calmbomb.eu/2019-08-26-my-first-roadburn/</guid>
+      <description>Roadburn e o poveste. Şi nu încerc să fiu artist spunând asta. Ştiam de mult de festivalul din Tilburg, Olanda şi de specificul lui, dar nu mi-am permis să ajung acolo prea repede.</description>
+    </item>
+    
+    <item>
+      <title>At The Gates @Quantic</title>
+      <link>http://calmbomb.eu/2018-12-07-at-the-gates-quantic/</link>
+      <pubDate>Fri, 07 Dec 2018 15:29:32 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2018-12-07-at-the-gates-quantic/</guid>
+      <description>Sunt câteva formaţii despre care am amintirea primului contact. Nu sunt multe, dar în general sunt printre formaţiile mele preferate. Una din ele este At The Gates.</description>
+    </item>
+    
+    <item>
+      <title>Rockstadt Extreme Fest 2015</title>
+      <link>http://calmbomb.eu/2015-08-18-rockstadt-extreme-fest-2015/</link>
+      <pubDate>Tue, 18 Aug 2015 06:01:52 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2015-08-18-rockstadt-extreme-fest-2015/</guid>
+      <description>O poveste de vara tarzie Anul asta am fost foarte ocupat cu treburi familiale/matrimoniale, asa ca nu a intrat in plan sa plec la vreun festival in alta parte.</description>
+    </item>
+    
+  </channel>
+</rss>

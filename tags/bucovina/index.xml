@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bucovina on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/bucovina/</link>
+    <description>Recent content in Bucovina on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    <lastBuildDate>Tue, 19 Jul 2011 22:02:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://calmbomb.eu/tags/bucovina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Camp Vaslui 2011</title>
+      <link>http://calmbomb.eu/2011-07-19-open-camp-vaslui-2011/</link>
+      <pubDate>Tue, 19 Jul 2011 22:02:46 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2011-07-19-open-camp-vaslui-2011/</guid>
+      <description>Anul trecut, cam in aceeasi perioada, a avut loc prima editie de Open Camp, un festival de muzica buna, o surpriza placuta pentru mine si pentru multi dintre Vasluieni.</description>
+    </item>
+    
+  </channel>
+</rss>

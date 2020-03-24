@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC/DC on calm.like.a.bomb</title>
+    <link>http://calmbomb.eu/tags/ac/dc/</link>
+    <description>Recent content in AC/DC on calm.like.a.bomb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro-ro</language>
+    <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
+    
+	<atom:link href="http://calmbomb.eu/tags/ac/dc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Down with AC/DC</title>
+      <link>http://calmbomb.eu/2010-05-17-down-with-ac/dc/</link>
+      <pubDate>Mon, 17 May 2010 08:04:57 +0000</pubDate>
+      
+      <guid>http://calmbomb.eu/2010-05-17-down-with-ac/dc/</guid>
+      <description>Nu zic &amp;ldquo;jos cu AC/DC&amp;rdquo;, zic doar &amp;ldquo;Down cu AC/DC&amp;rdquo;, pentru ca asta a fost concertul de aseara pentru mine si pentru alti 1% din publicul care a venit sa vada un show foarte bun.</description>
+    </item>
+    
+  </channel>
+</rss>
