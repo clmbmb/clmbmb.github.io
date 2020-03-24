@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radare on calm.like.a.bomb</title>
-    <link>http://calmbomb.eu/tags/radare/</link>
+    <link>https://clmbmb.github.io/tags/radare/</link>
     <description>Recent content in Radare on calm.like.a.bomb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
     <lastBuildDate>Mon, 12 Sep 2011 08:08:49 +0000</lastBuildDate>
     
-	<atom:link href="http://calmbomb.eu/tags/radare/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clmbmb.github.io/tags/radare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ne-au prins iar Radare(le)</title>
-      <link>http://calmbomb.eu/2011-09-12-ne-au-prins-iar-radarele/</link>
+      <link>https://clmbmb.github.io/2011-09-12-ne-au-prins-iar-radarele/</link>
       <pubDate>Mon, 12 Sep 2011 08:08:49 +0000</pubDate>
       
-      <guid>http://calmbomb.eu/2011-09-12-ne-au-prins-iar-radarele/</guid>
+      <guid>https://clmbmb.github.io/2011-09-12-ne-au-prins-iar-radarele/</guid>
       <description>La un an dupa ce i-am vazut prima oara, iata ca tot impreuna cu Sorin am mers sa-i vedem pe Radare, nemtii post-metal care ne-au placut si atunci.</description>
     </item>
     

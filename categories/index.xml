@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on calm.like.a.bomb</title>
-    <link>http://calmbomb.eu/categories/</link>
+    <link>https://clmbmb.github.io/categories/</link>
     <description>Recent content in Categories on calm.like.a.bomb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 21:32:42 +0300</lastBuildDate>
     
-	<atom:link href="http://calmbomb.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clmbmb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cronica de concert</title>
-      <link>http://calmbomb.eu/categories/cronica-de-concert/</link>
+      <link>https://clmbmb.github.io/categories/cronica-de-concert/</link>
       <pubDate>Mon, 26 Aug 2019 21:32:42 +0300</pubDate>
       
-      <guid>http://calmbomb.eu/categories/cronica-de-concert/</guid>
+      <guid>https://clmbmb.github.io/categories/cronica-de-concert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evenimente</title>
-      <link>http://calmbomb.eu/categories/evenimente/</link>
+      <link>https://clmbmb.github.io/categories/evenimente/</link>
       <pubDate>Wed, 22 Mar 2017 08:00:46 +0000</pubDate>
       
-      <guid>http://calmbomb.eu/categories/evenimente/</guid>
+      <guid>https://clmbmb.github.io/categories/evenimente/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Betivisme</title>
-      <link>http://calmbomb.eu/categories/betivisme/</link>
+      <link>https://clmbmb.github.io/categories/betivisme/</link>
       <pubDate>Thu, 14 Nov 2013 21:58:53 +0000</pubDate>
       
-      <guid>http://calmbomb.eu/categories/betivisme/</guid>
+      <guid>https://clmbmb.github.io/categories/betivisme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recomandari</title>
-      <link>http://calmbomb.eu/categories/recomandari/</link>
+      <link>https://clmbmb.github.io/categories/recomandari/</link>
       <pubDate>Mon, 20 May 2013 12:54:35 +0000</pubDate>
       
-      <guid>http://calmbomb.eu/categories/recomandari/</guid>
+      <guid>https://clmbmb.github.io/categories/recomandari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interviu</title>
-      <link>http://calmbomb.eu/categories/interviu/</link>
+      <link>https://clmbmb.github.io/categories/interviu/</link>
       <pubDate>Mon, 19 Mar 2012 18:51:09 +0000</pubDate>
       
-      <guid>http://calmbomb.eu/categories/interviu/</guid>
+      <guid>https://clmbmb.github.io/categories/interviu/</guid>
       <description></description>
     </item>
     
