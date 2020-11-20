@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
-    <lastBuildDate>Fri, 15 Mar 2019 17:24:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://calmbomb.eu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 26 Aug 2019 21:32:42 +0300</lastBuildDate><atom:link href="https://calmbomb.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My (first) Roadburn</title>
       <link>https://calmbomb.eu/2019-08-26-my-first-roadburn/</link>
@@ -27,7 +23,7 @@
       <pubDate>Fri, 15 Mar 2019 17:24:00 +0000</pubDate>
       
       <guid>https://calmbomb.eu/about/</guid>
-      <description>Prietenii îmi spun &amp;ldquo;Ursu&amp;rsquo;&amp;quot;. Ascult metal, hardcore, rock, hip-hop (prea puțin în ultima vreme) și tot felul de alte aiureli.</description>
+      <description>Prietenii îmi spun &amp;ldquo;Ursu&#39;&amp;rdquo;. Ascult metal, hardcore, rock, hip-hop (prea puțin în ultima vreme) și tot felul de alte aiureli.</description>
     </item>
     
     <item>
@@ -246,7 +242,7 @@ Am planificat miscarea asta cam cu doua luni inainte, dupa ce ne-am hotarat (eu 
       <pubDate>Mon, 05 Oct 2015 07:27:56 +0000</pubDate>
       
       <guid>https://calmbomb.eu/2015-10-05-negative-approach-in-question-mark/</guid>
-      <description>Dupa o pauza destul de consistenta, am reusit sa ajungem duminica seara la un show hardcore in formula completa: Sorin, Ciprian si eu - Ursu&amp;rsquo;.</description>
+      <description>Dupa o pauza destul de consistenta, am reusit sa ajungem duminica seara la un show hardcore in formula completa: Sorin, Ciprian si eu - Ursu&#39;.</description>
     </item>
     
     <item>
@@ -965,7 +961,7 @@ Din fericire, multora ca mine n-o sa le pese, dar la cat de idioti ii stiu pe am
       <pubDate>Fri, 31 Oct 2008 09:56:00 +0000</pubDate>
       
       <guid>https://calmbomb.eu/2008-10-31-experimental/</guid>
-      <description>[caption id=&amp;quot;attachment_137&amp;rdquo; align=&amp;quot;aligncenter&amp;rdquo; width=&amp;quot;400&amp;rdquo; caption=&amp;quot;Seara treibetivi.net in LMC&amp;rdquo;]Foto: Seara treibetivi.net in LMC
+      <description>[caption id=&amp;ldquo;attachment_137&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;400&amp;rdquo; caption=&amp;ldquo;Seara treibetivi.net in LMC&amp;rdquo;]Foto: Seara treibetivi.net in LMC
 [/caption]</description>
     </item>
     

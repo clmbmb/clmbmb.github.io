@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://calmbomb.eu/</loc>
+    <lastmod>2019-08-26T21:32:42+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://calmbomb.eu/categories/</loc>
     <lastmod>2019-08-26T21:32:42+03:00</lastmod>
   </url>
@@ -150,11 +155,6 @@
   <url>
     <loc>https://calmbomb.eu/tags/zozobra/</loc>
     <lastmod>2019-08-26T21:32:42+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calmbomb.eu/</loc>
-    <lastmod>2019-03-15T17:24:00+00:00</lastmod>
   </url>
   
   <url>
@@ -408,11 +408,6 @@
   </url>
   
   <url>
-    <loc>https://calmbomb.eu/tags/down/</loc>
-    <lastmod>2016-11-01T07:06:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://calmbomb.eu/tags/downfall/</loc>
     <lastmod>2016-11-01T07:06:14+00:00</lastmod>
   </url>
@@ -449,11 +444,6 @@
   
   <url>
     <loc>https://calmbomb.eu/tags/fallujah/</loc>
-    <lastmod>2016-07-10T11:11:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calmbomb.eu/tags/negative-core/</loc>
     <lastmod>2016-07-10T11:11:22+00:00</lastmod>
   </url>
   
@@ -564,11 +554,6 @@
   
   <url>
     <loc>https://calmbomb.eu/tags/kokomo/</loc>
-    <lastmod>2016-03-24T11:57:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calmbomb.eu/tags/lo/</loc>
     <lastmod>2016-03-24T11:57:51+00:00</lastmod>
   </url>
   
@@ -1113,6 +1098,11 @@
   </url>
   
   <url>
+    <loc>https://calmbomb.eu/tags/lo/</loc>
+    <lastmod>2013-04-30T12:32:30+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://calmbomb.eu/2013-04-04-brutal-night-in-fire-club/</loc>
     <lastmod>2013-04-04T12:31:25+00:00</lastmod>
   </url>
@@ -1270,11 +1260,6 @@
   <url>
     <loc>https://calmbomb.eu/2012-04-14-proof-once-again/</loc>
     <lastmod>2012-04-14T07:03:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calmbomb.eu/tags/hed-p.e./</loc>
-    <lastmod>2012-04-13T11:41:24+00:00</lastmod>
   </url>
   
   <url>
@@ -1593,6 +1578,11 @@
   </url>
   
   <url>
+    <loc>https://calmbomb.eu/tags/negative-core/</loc>
+    <lastmod>2010-11-27T17:04:25+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://calmbomb.eu/tags/nevergoinghome/</loc>
     <lastmod>2010-11-27T17:04:25+00:00</lastmod>
   </url>
@@ -1695,6 +1685,11 @@
   <url>
     <loc>https://calmbomb.eu/2010-06-02-rocknasbestos/</loc>
     <lastmod>2010-06-02T05:43:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmbomb.eu/tags/down/</loc>
+    <lastmod>2010-05-17T08:04:57+00:00</lastmod>
   </url>
   
   <url>
@@ -2160,6 +2155,10 @@
   <url>
     <loc>https://calmbomb.eu/2005-12-05-implant-pentru-refuz-viking-26.11.2005/</loc>
     <lastmod>2005-12-05T08:15:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmbomb.eu/tags/hed-p.e./</loc>
   </url>
   
   <url>

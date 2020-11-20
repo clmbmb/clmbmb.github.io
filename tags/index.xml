@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro-ro</language>
     <copyright>©2020 Toate articolele de pe site sunt originale.</copyright>
-    <lastBuildDate>Mon, 26 Aug 2019 21:32:42 +0300</lastBuildDate>
-    
-	<atom:link href="https://calmbomb.eu/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 26 Aug 2019 21:32:42 +0300</lastBuildDate><atom:link href="https://calmbomb.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>At The Gates</title>
       <link>https://calmbomb.eu/tags/at-the-gates/</link>
@@ -571,15 +567,6 @@
     </item>
     
     <item>
-      <title>Down</title>
-      <link>https://calmbomb.eu/tags/down/</link>
-      <pubDate>Tue, 01 Nov 2016 07:06:14 +0000</pubDate>
-      
-      <guid>https://calmbomb.eu/tags/down/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Downfall</title>
       <link>https://calmbomb.eu/tags/downfall/</link>
       <pubDate>Tue, 01 Nov 2016 07:06:14 +0000</pubDate>
@@ -630,15 +617,6 @@
       <pubDate>Sun, 10 Jul 2016 11:11:22 +0000</pubDate>
       
       <guid>https://calmbomb.eu/tags/fallujah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative Core</title>
-      <link>https://calmbomb.eu/tags/negative-core/</link>
-      <pubDate>Sun, 10 Jul 2016 11:11:22 +0000</pubDate>
-      
-      <guid>https://calmbomb.eu/tags/negative-core/</guid>
       <description></description>
     </item>
     
@@ -783,15 +761,6 @@
       <pubDate>Thu, 24 Mar 2016 11:57:51 +0000</pubDate>
       
       <guid>https://calmbomb.eu/tags/kokomo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lo!</title>
-      <link>https://calmbomb.eu/tags/lo/</link>
-      <pubDate>Thu, 24 Mar 2016 11:57:51 +0000</pubDate>
-      
-      <guid>https://calmbomb.eu/tags/lo/</guid>
       <description></description>
     </item>
     
@@ -1462,6 +1431,15 @@
     </item>
     
     <item>
+      <title>Lo!</title>
+      <link>https://calmbomb.eu/tags/lo/</link>
+      <pubDate>Tue, 30 Apr 2013 12:32:30 +0000</pubDate>
+      
+      <guid>https://calmbomb.eu/tags/lo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DeathDrive</title>
       <link>https://calmbomb.eu/tags/deathdrive/</link>
       <pubDate>Thu, 04 Apr 2013 12:31:25 +0000</pubDate>
@@ -1665,15 +1643,6 @@
       <pubDate>Tue, 24 Apr 2012 13:28:42 +0000</pubDate>
       
       <guid>https://calmbomb.eu/tags/terror/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>(HED) P.E.</title>
-      <link>https://calmbomb.eu/tags/hed-p.e./</link>
-      <pubDate>Fri, 13 Apr 2012 11:41:24 +0000</pubDate>
-      
-      <guid>https://calmbomb.eu/tags/hed-p.e./</guid>
       <description></description>
     </item>
     
@@ -2029,6 +1998,15 @@
     </item>
     
     <item>
+      <title>Negative Core</title>
+      <link>https://calmbomb.eu/tags/negative-core/</link>
+      <pubDate>Sat, 27 Nov 2010 17:04:25 +0000</pubDate>
+      
+      <guid>https://calmbomb.eu/tags/negative-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nevergoinghome</title>
       <link>https://calmbomb.eu/tags/nevergoinghome/</link>
       <pubDate>Sat, 27 Nov 2010 17:04:25 +0000</pubDate>
@@ -2169,6 +2147,15 @@
       <pubDate>Wed, 02 Jun 2010 05:43:47 +0000</pubDate>
       
       <guid>https://calmbomb.eu/tags/asbestos-in-osbestrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Down</title>
+      <link>https://calmbomb.eu/tags/down/</link>
+      <pubDate>Mon, 17 May 2010 08:04:57 +0000</pubDate>
+      
+      <guid>https://calmbomb.eu/tags/down/</guid>
       <description></description>
     </item>
     
@@ -2673,6 +2660,15 @@
       <pubDate>Fri, 23 Jun 2006 08:13:56 +0000</pubDate>
       
       <guid>https://calmbomb.eu/tags/prague-ska-conspiracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(HED) P.E.</title>
+      <link>https://calmbomb.eu/tags/hed-p.e./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmbomb.eu/tags/hed-p.e./</guid>
       <description></description>
     </item>
     
